@@ -3,4 +3,4 @@ task:
     labels:
       os: linux
       arch: s390x
-  script: echo "running on-premise"
+  script: echo "Hi Testing running on-premise"
