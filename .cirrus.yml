@@ -2,5 +2,5 @@ task:
   persistent_worker:
     labels:
       os: linux
-      arch: ppc64le
+      arch: s390x
   script: echo "running on-premise"
